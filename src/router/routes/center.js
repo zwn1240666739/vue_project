@@ -1,4 +1,4 @@
-import Center from "@/views/Films/Index";
+import Center from "@/views/Center/Index";
 var center = {
     path: '/center',
     component: Center,
